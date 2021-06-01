@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Welton-Siqueira
 
 # Hello there  ⚡
 
